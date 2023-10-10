@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lewis Ndahinyuka</h1>
-<h3 align="center">I am a full-stack web developer proficient MERN Stack development</h3>
+<h3 align="center">I am a full-stack web developer proficient in MERN Stack development.</h3>
 <img align="right" width="400" alt="coding" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" />
-
-<p align="left"> <img src="ttps://komarev.com/ghpvc/?username=Lewin99&label=Profile%20views&color=0e75b6&style=flat" alt="lewin99" /> </p>
 
 - 🌱 I’m currently learning **Django,Next.js**
 
 - 👯 I’m looking to collaborate on **Different web development technologies.**
 
-- 💬 Ask me about **Python,PHP,Javascript,React,Node.js,Express.js and Typescript**
+- 💬 Ask me about **React,Node.js,Express.js and Typescript**
 
 - 📫 How to reach me **ndahinyukalewis@gmail.com**
 
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewin99&show_icons=true&locale=en&layout=compact" alt="lewin99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lewin99&show_icons=true&locale=en" alt="lewin99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewin99&" alt="lewin99" /></p>
