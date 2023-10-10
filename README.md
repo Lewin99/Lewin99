@@ -1,3 +1,5 @@
+
+<img alt="banner" align="center" src="https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png"/>
 <h1 align="center">Hi 👋, I'm Lewis Ndahinyuka</h1>
 <h3 align="center">I am a full-stack web developer proficient in MERN Stack development.</h3>
 <img align="right" width="400" alt="coding" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" />
